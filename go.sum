@@ -25,8 +25,8 @@ github.com/khulnasoft-labs/hmap v0.0.14 h1:G9EsQY20Ttua4XrooP33LO+odkvaH3x4naYFE
 github.com/khulnasoft-labs/hmap v0.0.14/go.mod h1:pEgEU8ypqNDSp4YnEepJeWunPKeH55j3yXbBUC/QqpM=
 github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c h1:aCzEdCx3U+cAt82OQhS1kI6o13Lgz7lebFAR/Jmfv48=
 github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c/go.mod h1:9ayMptMoeGxFFzVvxR0k6Zapp3CBcQhr2fRH8SNYaOw=
-github.com/khulnasoft-labs/networkpolicy v0.0.6 h1:g8CLIcIczFjXSwoUtMtY6QRaBPFZo/HNUcGLd0zZRB8=
-github.com/khulnasoft-labs/networkpolicy v0.0.6/go.mod h1:wIkzSBwqfZMavDgIzSJZp7TiUic5PA4V7fXgR07rXwo=
+github.com/khulnasoft-labs/networkpolicy v0.0.7 h1:SGbp2pw/YeJd1Q9K/yTQ1EBjbQx0Xv2blEZGlwADzvs=
+github.com/khulnasoft-labs/networkpolicy v0.0.7/go.mod h1:wIkzSBwqfZMavDgIzSJZp7TiUic5PA4V7fXgR07rXwo=
 github.com/khulnasoft-labs/utils v0.0.45 h1:27tqzQqwMWN4mVw18oexYzejfNW8/ApENWHFwawCNmY=
 github.com/khulnasoft-labs/utils v0.0.45/go.mod h1:J7QDXALnOeITXeNZxy5sLwgONEYnuP7873DuLXtSVxo=
 github.com/microcosm-cc/bluemonday v1.0.24 h1:NGQoPtwGVcbGkKfvyYk1yRqknzBuoMiUrO6R7uFTPlw=

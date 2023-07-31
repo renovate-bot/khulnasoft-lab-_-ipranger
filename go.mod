@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/khulnasoft-labs/hmap v0.0.14
 	github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c
-	github.com/khulnasoft-labs/networkpolicy v0.0.6
+	github.com/khulnasoft-labs/networkpolicy v0.0.7
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/yl2chen/cidranger v1.0.2
 )
