@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/khulnasoft-labs/hmap v0.0.15
-	github.com/khulnasoft-labs/mapcidr v0.0.0-20230724053032-935414e9c35c
+	github.com/khulnasoft-labs/mapcidr v1.1.2
 	github.com/khulnasoft-labs/networkpolicy v0.0.7
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/yl2chen/cidranger v1.0.2
@@ -16,7 +16,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
-	github.com/khulnasoft-labs/blackrock v0.0.1 // indirect
+	github.com/khulnasoft-labs/blackrock v0.0.2 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.24 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
